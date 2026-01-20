@@ -1,3 +1,20 @@
+# FFXIV Market Annihilation - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
 requests==2.31.0
 pandas==2.1.4
 python-dotenv==1.0.0
+
+# Pandas dependencies
+numpy==1.26.4
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.3
+
+# HTTP dependencies
+certifi==2026.1.4
+charset-normalizer==3.4.4
+idna==3.11
+urllib3==2.6.3
+six==1.17.0
